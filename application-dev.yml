@@ -13,12 +13,12 @@ spring:
     proxy-target-class: true
     auto: true
   rabbitmq:
-    host: paascloud-mq-rabbit
+    host: 59.110.241.188
     port: 5672
     username: admin
     password: admin
   redis:
-    host: paascloud-db-redis
+    host: 59.110.241.188
     password: niuhao
     port: 6479
     timeout: 2000
